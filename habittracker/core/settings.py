@@ -40,11 +40,11 @@ INSTALLED_APPS = [
     'rest_framework',
     'habits',
     'rest_framework.authtoken',
-    'dj_rest_auth',
+    'dj_rest_auth'
+    'dj_rest_auth.registration',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    'dj_rest_auth.registration',
 ]
 
 # Add authentication backends
